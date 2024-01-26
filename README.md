@@ -12,3 +12,4 @@ In this Project analysis the different types of Iris flower species and visuliza
 
 4.SALES PREDICTION USING PYTHON
 In this Project to perform Sales prediction to forecasting. Use data preprocessing , EDA and predict model to forcast the future sale.
+5.updated
