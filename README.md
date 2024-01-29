@@ -10,6 +10,6 @@ The dataset contains information about a large number of movies, including both 
 3. [IRIS FLOWER CLASSIFICATION](https://github.com/Akashwadile21/CODSOFT/blob/main/Iris_Project/Task_2.ipynb)
 The Iris dataset contains measurements of various iris flowers, including three species: Setosa, Versicolor, and Virginica. For each species, four features are measured: sepal length, sepal width, petal length, and petal width. The goal is to classify each iris flower into one of the three species based on these four features.In this Project analysis the different types of Iris flower species and visulization on their species.also perform machine learning .
 
-4. SALES PREDICTION USING PYTHON
-In this Project to perform Sales prediction to forecasting. Use data preprocessing , EDA and predict model to forcast the future sale.
+4. [SALES PREDICTION USING PYTHON](https://github.com/Akashwadile21/CODSOFT/blob/main/Task_3(Sales_Prediction).ipynb)
+The dataset consists of four features representing advertising expenditures on different media channels and one target variable representing sales figures. The goal is to predict sales based on the amount spent on TV, Radio, and Newspaper advertisingIn this Project to perform Sales prediction to forecasting. Use data preprocessing , EDA and predict model to forcast the future sale.
 
